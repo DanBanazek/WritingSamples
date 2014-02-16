@@ -14,9 +14,9 @@ file.
 In 2006 I spearheaded the upgrade of the help file for Best Case Bankruptcy from ForeHelp to RoboHelp. This included designing basic pages, creating css files to manage layout and some javascript work
 to recreate missing forehelp functionality. Additionally I wrote wrote and maintained a large portion of the help file including the following topics:
 
-*Scanning a Document into Your ECF Manager with BestScan
-*Geting Started with the Means Test Calculator
-*Form 3B. Application to Have the Chapter 7 Filing Fee Waived
+*	Scanning a Document into Your ECF Manager with BestScan
+*	Geting Started with the Means Test Calculator
+*	Form 3B. Application to Have the Chapter 7 Filing Fee Waived
 
 ###Chapter 13 Plan Add-On Instructions
 
