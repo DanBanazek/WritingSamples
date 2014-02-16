@@ -3,7 +3,7 @@ Technical Writing Samples
 
 Welcome to my writing samples git branch. 
 
-MyECFMail AutoDownloadController API
+MyECFMail AutoDownloadController API Reference
 ------------------------------------
 In version 3 of MyECFMail, we gave users the options to create a Windows Task to run a daily mail download.
 The actual coding was split into three parts. A simple console app to run the task remotely, a Winforms dll with a GUI setup for MyECFMail users
