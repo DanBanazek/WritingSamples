@@ -4,7 +4,7 @@ Technical Writing Samples
 Welcome to my writing samples repository. 
 
 ###MyECFMail AutoDownloadController API Reference
-In version 3 of MyECFMail, we gave users the options to create a Windows Task to run a daily mail download.
+In version 3 of MyECFMail, we gave users the option to create a Windows Task to run a daily mail download.
 The actual coding was split into three parts. A simple console app to run the task remotely, a Winforms dll with a GUI setup for MyECFMail users
 and a AutoDownloadControllers.dll that contains the classes and methods for creating and running the task. The MyECFMail AutoDownloadController API Reference
 is an reference guide I created to help myself and others who may need to edit or enhance the methods in the future. It was generated through SandCastle with a Visual Studio XML
@@ -19,5 +19,8 @@ to recreate missing forehelp functionality. Additionally I wrote wrote and maint
 *	Form 3B. Application to Have the Chapter 7 Filing Fee Waived
 
 ###Chapter 13 Plan Add-On Instructions
+The standard Chapter 13 Plan Document created by Best Case Bankruptcy is not excepted in all courts. To accomodate non-standard districts Best Case offers District Specific Chapter 13 Plan Documents.
+Each of these documents includes its own set of instructions available in PDF format. As part of my Technical Writer duties, I not only wrote several sets of instructions, I also created standards and a reference library
+to make the process of creating these documents faster. I have included two samples in this repository.
 
-###Internal Wiki Posts and Testing Instructions
+
