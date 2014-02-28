@@ -27,7 +27,7 @@ to recreate missing forehelp functionality. Additionally I wrote wrote and maint
 *	Form 3B. Application to Have the Chapter 7 Filing Fee Waived
 
 ###Chapter 13 Plan Add-On Instructions
-The standard Chapter 13 Plan Document created by Best Case Bankruptcy is not excepted in all courts. To accomodate non-standard districts Best Case offers District Specific Chapter 13 Plan Documents.
+The standard Chapter 13 Plan Document created by Best Case Bankruptcy is not accepted in all courts. To accomodate non-standard districts Best Case offers District Specific Chapter 13 Plan Documents.
 Each of these documents includes its own set of instructions available in PDF format. As part of my Technical Writer duties, I not only wrote several sets of instructions, I also created standards and a reference library
 to make the process of creating these documents faster. I have included two samples in this repository.
 
