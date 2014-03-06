@@ -9,7 +9,7 @@ The actual coding was split into three parts. A simple console app to run the ta
 and a AutoDownloadControllers.dll that contains the classes and methods for creating and running the task. The MyECFMail AutoDownloadController API Reference
 is a reference guide I created to help myself and others who may need to edit or enhance the methods in the future. It was generated through SandCastle with a Visual Studio XML
 file.
-
+    <span style="color:red; font-weight: bold;">Update 3/6/2014: Added code samples for all classes in the API</span>
 ###MyECFMail Testing and Tech Support Instructions
 
 *	How to Mock a MyECFMail Calendar Events Auto-Transfer from the Session Manager
